@@ -67,4 +67,13 @@ print(" chanel rubika = @aqa_Christopher ")
 print(" zendegim bita ")
 print(f"{red} ")
 print("       abar script [cod filtering] ")
-print("      bay     ")
+print(""" baray up = rm -rf cod-filtering-keristofer 
+
+git clone https://github.com/arthur0010/cod-filtering-keristofer 
+
+cd cod-filtering-keristofer 
+
+chmod 777 * 
+
+python cod-filtering-keristofer.py """)
+print('  bay  ')
