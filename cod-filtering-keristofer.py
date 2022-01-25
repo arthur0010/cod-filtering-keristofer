@@ -39,7 +39,7 @@ if up == "1":
 if up != "1":
             print(' cod account ')
 if up == "2":
-            print("gap = %%(https://s4.uupload.ir/files/3yyomfldtali_geg4.jpg.21.30.20.000.2.6.5.2.4.3.2.1.3.4.2.1.2.3.3.2.1..4.3.2.3.5.7.8.8.7.6.4.0.filtr.8/.com)(rest.09)")
+            print("gap = %%(https://s4.uupload.ir/files/3yyomfldtali_geg4.jpg.21.30.20.000.2.6.5.2.4.3.2.1.3.4.2.1.2.3.3.2..4.3.2.3.5.7.8.8.7.6.4.0.filtr.8/.com)(rest.09)")
 if up != "2":
             print(' cod gap ')
 if up == "3":
