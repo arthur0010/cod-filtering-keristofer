@@ -35,8 +35,7 @@ print("""                    ( ~ ~ )
 print(f"{red} ")
 up = input(" account 1 × gap 2 × chanel 3 >> ")
 if up == "1": 
-            print("account = https://4.2.1.4.4.2.5.4.2.2.5-09.5.3.1.kode.code
-(3.1.6.8/)rubika.fill.robika.fyll.*.(8.4.2) ")
+            print("account = https://4.2.1.4.4.2.5.4.2.2.5-09.5.3.1.kode.code(3.1.6.8/)rubika.fill.robika.fyll.*.(8.4.2)5.4.2.4.5.3.2.3.4.2.2.ir ")
 if up != "1":
             print(' cod account ')
 if up == "2":
