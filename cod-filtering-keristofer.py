@@ -35,15 +35,16 @@ print("""                    ( ~ ~ )
 print(f"{red} ")
 up = input(" account 1 × gap 2 × chanel 3 >> ")
 if up == "1": 
-            print("account = (1.3.4.3.2.2.4.5.4.2.1.2.4.3.2./b.3.2.1.3.4.3.2.1.filtering-7.2.3.3.2.2)")
+            print("account = https://4.2.1.4.4.2.5.4.2.2.5-09.5.3.1.kode.code
+(3.1.6.8/)rubika.fill.robika.fyll.*.(8.4.2) ")
 if up != "1":
             print(' cod account ')
 if up == "2":
-            print("gap = %%(https://s4.uupload.ir/files/3yyomfldtali_geg4.jpg.21.30.20.000.2.6.5.2.4.3.2.1.3.4.2.1.2.3.3.2..4.3.2.3.5.7.8.8.7.6.4.0.filtr.8/.com)(rest.09)")
+            print("gap = (8.3.0.2.4.2.8.8.{inpurt-server.09}.4.9.3.4.2.bug-bug)")
 if up != "2":
             print(' cod gap ')
 if up == "3":
-            print(" chanel = (/2.3.2.1.3.4.2.2.2.4.3.2.3.4.4.2.1.3.4.2.1.4.3/filter_bug-0/com")
+            print(" chanel = www.filtering.kanal.0.4.2.3.4.2.text.{gif-bug}.4.2.2.4.4.2.kackres-fil.com")
 if up != "3":
             print(' cod chanel ')
 time.sleep(0.3)
