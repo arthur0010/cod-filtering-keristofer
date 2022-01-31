@@ -35,15 +35,15 @@ print("""                    ( ~ ~ )
 print(f"{red} ")
 up = input(" account 1 × gap 2 × chanel 3 >> ")
 if up == "1": 
-            print("account = https://4.2.1.4.4.2.5.4.2.2.5-09.5.3.1.kode.code(3.1.6.8/)rubika.fill.robika.fyll.*.(8.4.2)5.4.2.4.5.3.2.3.4.2.2.ir ")
+            print("account (af.af.af.af/report.https://5.4.2.5.5.4.2.1.4.(9.2-8).6.4.2./23:42:26.683/(0.0.1-8)server*(0.98)1400-filter.rubika-bug-bug.ir")
 if up != "1":
             print(' cod account ')
 if up == "2":
-            print("gap = (8.3.0.2.4.2.8.8.{inpurt-server.09}.4.9.3.4.2.bug-bug)")
+            print("gap = (https://s4.uupload.ir/files/img_20210728_194732_694_vlkn.jpg.filtering.https://5.4.2.4.5.4.2.2.4.4.2.(3.1.8/)code.kode(yfttk15)rubika.fil.fil.com")
 if up != "2":
             print(' cod gap ')
 if up == "3":
-            print(" chanel = www.filtering.kanal.0.4.2.3.4.2.text.{gif-bug}.4.2.2.4.4.2.kackres-fil.com")
+            print(" chanel = (https://bug-server.0.3.2.4.3.2.1.3.4 3.2.1.3.4.2.5.3.2.4.ir*https://ter.af-ter.af-ter.*.kode.code. (/YtTk_)(۳.۱.۶.۸/)rubika.fill-robika.fyll.*(8.7-0)")
 if up != "3":
             print(' cod chanel ')
 time.sleep(0.3)
