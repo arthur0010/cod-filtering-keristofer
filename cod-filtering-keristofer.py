@@ -64,7 +64,6 @@ print("""%%%%%%%%%%
 % """)
 print(f"{green} ")
 print(" chanel rubika = https://rubika.ir/joinc/BCIHGBJI0RYJDMHNUNYOCGRWFOPXYXSP ")
-print(" zendegim bita ")
 print(f"{red} ")
 print("       abar script [cod filtering] ")
 print(""" baray up =
