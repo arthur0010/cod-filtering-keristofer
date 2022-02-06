@@ -67,6 +67,7 @@ print(" chanel rubika = https://rubika.ir/joinc/BCIHGBJI0RYJDMHNUNYOCGRWFOPXYXSP
 print(f"{red} ")
 print("       abar script [cod filtering] ")
 print(""" baray up =
+print(" ")
  rm -rf cod-filtering-keristofer 
 
 git clone https://github.com/arthur0010/cod-filtering-keristofer 
