@@ -24,7 +24,7 @@ print(f"{blue} ")
 print(' aqa amir (keristofer) ')
 print('         Ａ Ｍ Ｉ Ｒ   ')
 print(f"{pink} ")
-print("""
+print("..".."
 
 n                     .             .                n.
   . .dP                   dP               9b               9b   .
