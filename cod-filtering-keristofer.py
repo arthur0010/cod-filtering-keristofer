@@ -110,15 +110,15 @@ print("  ")
 print(f"{blue} ")
 time.sleep(2.0)
 if up == "1":
-        print(' cod account = https://5.3.1.4.2.1.4.2.1.4.3.2.h/093//g.4.2.4.filter-rubika.bug.com/yfttk15/xnxx.com/filtering(۳.۰.۱.۸/)server*(9.2)filter//com ')
+        print(' cod account = (5.2.6.3.2.5.2.com.https://q//h/.5.2.6.4.2.5.3.com/08.5.2.5.2.1.4.2.1.4.2.2/af.af.ter.ter.bug.com/https://(filtering-rubika/).com ')
 if up != "1":
         print(' cod filter account ')
 if up == "2":
-        print(' cod gap = https://af.af.ter-ter.bug/server*(98.23).4.2.2.4.2.2/filtering-rubika.0.4.2.5.3.2.4.2.2.4.2.1.4.hakers.0.9.7.6.5.2.4.2.//fil.com ')
+        print(' cod gap = https://af.af.ter.ter.bug.bug.ir/5.2.4.2.2.5.3.2.fil-fyl-gruop.4.2.3.4.2.4.server**(2.0.8).5.3.1.4.2.1.4.2.(filtering-rubika-hackrs//).com ')
 if up != "2":
         print(' cod filter gap ')
 if up == "3":
-        print(' cod chanel = https://2.9.5.4.2.4.2.1.4.2.2.3.4.2.1.3.2.1.kode.code(3.1.6.8/)rubika.fill.robika.fyll.*.0.4.2.4.2.com/xnxx.com/yfttk15/https://dxprit.com ')
+        print(' cod chanel = https://1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.targer/(5.106.6.29/server13028))4.2.2.4.2.1.4.2.1.4.2.1.4.bug:xss).com ')
 if up != "3":
         print(' cod filter chanel ')
 time.sleep(0.6)
