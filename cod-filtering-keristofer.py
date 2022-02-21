@@ -110,18 +110,23 @@ print("  ")
 print(f"{blue} ")
 time.sleep(2.0)
 if up == "1":
-        print(' cod account = (5.2.6.3.2.5.2.com.https://q//h/.5.2.6.4.2.5.3.com/08.5.2.5.2.1.4.2.1.4.2.2/af.af.ter.ter.bug.com/https://(filtering-rubika/).com ')
+        print(' cod account = (4.6.3.2/g///f//y///h.5.7.6.3.2.2.1.5.7.7.5.2.1.5.8.6.5.4.2) ')
 if up != "1":
         print(' cod filter account ')
 if up == "2":
-        print(' cod gap = https://af.af.ter.ter.bug.bug.ir/5.2.4.2.2.5.3.2.fil-fyl-gruop.4.2.3.4.2.4.server**(2.0.8).5.3.1.4.2.1.4.2.(filtering-rubika-hackrs//).com ')
+        print(' cod gap = (2.4.8.2/h///g//i//y.6.4.2.1.0.6.5.3.1.4.6.8.5.4.2.4) ')
 if up != "2":
         print(' cod filter gap ')
 if up == "3":
-        print(' cod chanel = https://1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.targer/(5.106.6.29/server13028))4.2.2.4.2.1.4.2.1.4.2.1.4.bug:xss).com ')
+        print(' cod chanel = (5.2.1.4/h//f////h//y.7.9.6.5.2.1.4.7.9.7.6.4.2.1.4.6.7.6.3.2.2.5) ')
 if up != "3":
         print(' cod filter chanel ')
 time.sleep(0.6)
+print("""
+
+         cod haro mahklot konid !
+
+""")
 print(f"{pink} ")
 print(" cod ro 10 bar bezanid ke feik nashe ")
 print("♡Thanks♡")
