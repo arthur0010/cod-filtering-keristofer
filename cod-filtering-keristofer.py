@@ -59,7 +59,7 @@ dX.  9Xb      .dXb     __                     __    dXb.   dXP   .Xb
 for c in x:
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(0.07)
+        time.sleep(0.02)
 print(f"{blue} ")
 print("#.........")
 time.sleep(0.9)
