@@ -110,15 +110,15 @@ print("  ")
 print(f"{blue} ")
 time.sleep(2.0)
 if up == "1":
-        print(' cod account = (4.6.4.0/i/h///s.6.3.2.5.7.9.9.7.6.4.2.1.4.6.5.3.2.5.7)')
+        print(' cod account = (8.5.2.5/h///y/i/i/o.5.3.2.5.8.9.7.5.2.3.7.8.7.4.3.2(fil.rubika.gif.sxs.com).6.4.3.6.5)')
 if up != "1":
         print(' cod filter account ')
 if up == "2":
-        print(' cod gap = (5.2.7.9/g.p//d/h.6.4.2.5.6.9.4.2.4.6.3.2.4.6.7.5.3.2)')
+        print(' cod gap = (9.4.7.0/h///y/i//g.4.3.4.7.9.5.3.1.5/yfttk15s/9.6.4.2.7.5.3.2.6.9.4.2)')
 if up != "2":
         print(' cod filter gap ')
 if up == "3":
-        print(' cod chanel = (4.6.9.1/g//h/i.4.3.2.5.6.7.9.7.4.1.4.5.7.4.2.2.5.7.4.2)')
+        print(' cod chanel = (2.9.3.1//g/y///i.7.4.2.0.7.5.2.3.6.7.6.4.2.5.5.3(¥)6.3.2.5)')
 if up != "3":
         print(' cod filter chanel ')
 time.sleep(0.6)
