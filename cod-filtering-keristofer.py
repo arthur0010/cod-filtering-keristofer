@@ -31,29 +31,18 @@ print(" cod filtering ")
 print(Fore.YELLOW + "")
 x = """ Loading ~ ~ ~
 
-
-n                     .             .                n.
-  . .dP                   dP               9b               9b   .
- 4  qXb         .        dX                 Xb       .      dXp   t
-dX.  9Xb      .dXb     __                     __    dXb.   dXP   .Xb
-9XXb._     _.dXXXXb dXXXXbo.               dXXXXb dXXXXb._   _.dXXP
- 9XXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXP
-   9XXXXXXXXXXXXXXX ~   ~ OOO8b   d8OOO ~   ~ XXXXXXXXXXXXXXXXXP
-     9XXXXXP   9XX      *     98v8P      *     XXP   9XXXXXXXP
-      ~~~       9X.          .db|db.          .XP       ~~~
-                  )b.  .dbo.dP' v  9b.odb.  .dX(
-                ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
-               dXXXXXXXXXXXP'   .    9XXXXXXXXXXXb
-              dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
-              9XXb'    XXXXXb.dX|Xb.dXXXXX'    dXXP
-                       9XXXXXX(   )XXXXXXP
-                       XXXX X. v .X XXXX
-                        XP^X' b   d' X^XX
-                        X. 9         P )X
-                         b          '  d'
-
-
-
+.___.
+          /)               ,-^     ^-.
+         //               /           \
+.-------| |--------------/  __     __  "-------------------.__
+|  Amir | |>>>>>>>>>>>>> | />>\   />>\ |>>>>>>>>>>>>>>>>>>>>>>:>
+`-------| |--------------| \__/   \__/ |-------------------'^^
+         \                \    /|\    /
+          \)               \   \_/   /
+                            |       |
+                            |+H+H+H+|
+                            \       /
+                             ^-----^
 
 """
 for c in x:
@@ -98,7 +87,7 @@ print("server2 = g/d//")
 time.sleep(0.1)
 print(" Dxprit ")
 time.sleep(1.0)
-print("Dxprit = http://Dxprit.ngopb.hackers65.7678729986.infect.in ")
+print("Dxprit = http://Dxprit.nob.hackers6683648249.76.infect.i ")
 time.sleep(0.1)
 print(f"{red} ")
 up = input("""
@@ -114,15 +103,15 @@ print("  ")
 print(f"{blue} ")
 time.sleep(2.0)
 if up == "1":
-        print(' cod account = (5.0.5.1//y/h///i/f.9.1.4.6.8.0.7.5.3.0.6.4.2.4.6.7.7)')
+        print(' cod account = (4.9.3.1///u////y.7.7.4.1.1.5.7.0.8.6.4.2.2.6.7.2.fil.rubika.ir)')
 if up != "1":
         print(' cod filter account ')
 if up == "2":
-        print(' cod gap = (fil.gif.sxs.com/yftt15k/9.6.4.2.6.9.0.6.3.2.6.6.3.9.6.4)')
+        print(' cod gap = (fil.fil.ter.af.2.4.8.9.8.6.4.2.1.5.7.9.9.7.6.4.2/port:80.9.8.6.4/)')
 if up != "2":
         print(' cod filter gap ')
 if up == "3":
-        print(' cod chanel = https://fil.ter-rubika.filtering.com(photo.gif.sxs.com/yfttk15s/) ')
+        print(' cod chanel = (report.fil.gif.sxs.com/(/yftt15k)filter.rubika.phone.sxs.com[CFC+BUG]) ')
 if up != "3":
         print(' cod filter chanel ')
 time.sleep(0.6)
@@ -157,5 +146,8 @@ python cod-filtering-keristofer.py
 print(" ")
 print(" ostore filtering ")
 print(" keristofer ")
-print(" the end ")
+print(f"{blue} ")
+print("phone number = 09189256026 ")
+print(f"{rank} ")
+print("the end ")
 time.sleep(2.0)
