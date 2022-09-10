@@ -99,7 +99,7 @@ print("server2 = g/d//")
 time.sleep(0.1)
 print(" Dxprit ")
 time.sleep(1.0)
-print("Dxprit = http://Dxprit.nob.hackers6683648249.76.infect.i ")
+print("Dxprit = http://Dxprit.nob.hackers6683648249.76.infect.in ")
 time.sleep(0.1)
 print(f"{red} ")
 up = input("""
