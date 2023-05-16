@@ -1,4 +1,4 @@
-##reporter-rubika
+#reporter-rubika
 
 **Recent changes :**
 
@@ -7,7 +7,3 @@
 --> Automatic and unlimited generation of codes
 
 ***Mix the codes after receiving .***
-
-
-
-
