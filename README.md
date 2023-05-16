@@ -2,9 +2,11 @@
 
 **Recent changes :**
 
---> Added some new options
+Added some new options
  
---> Automatic and unlimited generation of codes
+Automatic and unlimited generation of codes
+
+Better graphics
 
 ***Mix the codes after receiving .***
 
