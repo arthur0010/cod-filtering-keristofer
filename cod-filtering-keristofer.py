@@ -2,7 +2,8 @@ from os import system
 
 try:
 
-	from datetime import datetimeexcept:
+	from datetime import datetime
+except:
 
 	system("pip install datetime")
 
