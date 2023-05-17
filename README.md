@@ -14,7 +14,7 @@ Better graphics
 # screen shot
 ![Screenshot_۲۰۲۳۰۵۱۶_۲۱۵۷۲۴_Pydroid 3](https://github.com/arthur0010/cod-filtering-keristofer/assets/94835248/48c9c629-dad4-4192-a638-660fa5559485)
 
-# install 
+# installing in termux
 
 `pkg install python`
 
@@ -29,3 +29,14 @@ Better graphics
 `chmod 777 *`
 
 `python cod-filtering-keristofer.py`
+
+# installing in linux
+
+`sudo apt-get install python`
+
+`git clone https://github.com/arthur0010/cod-filtering-keristofer`
+
+`cd cod-filtering-keristofer`
+
+`python3 cod-filtering-keristofer.py`
+
