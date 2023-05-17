@@ -16,16 +16,16 @@ Better graphics
 
 # install 
 
-```pkg install python
+`pkg install python`
 
-pkg install git
+`pkg install git`
 
-pkg install figlet
+`pkg install figlet`
 
-git clone https://github.com/arthur0010/cod-filtering-keristofer 
+`git clone https://github.com/arthur0010/cod-filtering-keristofer`
 
-cd cod-filtering-keristofer 
+`cd cod-filtering-keristofer `
 
-chmod 777 * 
+`chmod 777 *`
 
-python cod-filtering-keristofer.py```
+`python cod-filtering-keristofer.py`
