@@ -22,9 +22,9 @@ Better graphics
 
 `pkg install figlet`
 
-`git clone https://github.com/arthur0010/cod-filtering-keristofer`
+```git clone https://github.com/arthur0010/cod-filtering-keristofer```
 
-`cd cod-filtering-keristofer `
+`cd cod-filtering-keristofer`
 
 `chmod 777 *`
 
@@ -34,7 +34,7 @@ Better graphics
 
 `sudo apt-get install python`
 
-`git clone https://github.com/arthur0010/cod-filtering-keristofer`
+```git clone https://github.com/arthur0010/cod-filtering-keristofer```
 
 `cd cod-filtering-keristofer`
 
